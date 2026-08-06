@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147636867698",
+    "project_id": "collage-alert-c30be",
+    "storage_bucket": "collage-alert-c30be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147636867698:android:647aa0b94444ffda26e8eb",
+        "android_client_info": {
+          "package_name": "com.example.college_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-8H7c_cPg704JsKH4NEmLHGxXt4OI2ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
