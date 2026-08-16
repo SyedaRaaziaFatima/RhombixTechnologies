@@ -1,0 +1,34 @@
+name: bazaarhub
+description: A secure mobile marketplace assignment built with Flutter and Supabase.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.15.4
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/bazaarhub_icon.png
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: assets/icons/bazaarhub_icon.png
+  min_sdk_android: 21
+  adaptive_icon_background: "#2188C7"
+  adaptive_icon_foreground: assets/icons/bazaarhub_icon.png
+  adaptive_icon_foreground_inset: 12
