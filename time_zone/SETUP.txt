@@ -1,0 +1,26 @@
+ONLY THESE STEPS ARE YOURS
+
+1. Extract ZIP.
+2. Open folder in VS Code.
+3. Terminal -> New Terminal.
+4. Run:
+   flutter create .
+   flutter pub get
+   flutter run
+
+Then test:
+- Create account
+- Sign in
+- Select locations
+- Convert time
+- Swap locations
+- Change profile picture
+- Toggle dark/light mode
+- Favorite conversion
+- Sign out
+
+For APK:
+flutter build apk --release
+
+The APK will be in:
+build/app/outputs/flutter-apk/app-release.apk
