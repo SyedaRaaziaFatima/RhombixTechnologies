@@ -1,0 +1,10 @@
+CampMate mobile app icon install
+
+1. Is ZIP ko download karein.
+2. ZIP ke tamam contents apne camp_mate project ke root mein extract karein.
+   Ye wahi folder hai jahan pubspec.yaml mojood hai.
+3. install_app_icon.bat ko double-click karein.
+4. SUCCESS message ke baad phone se purani CampMate app uninstall karein.
+5. Project terminal mein flutter run karein.
+
+Phone home screen par default Flutter icon ki jagah CampMate tent/mountain icon nazar aayega.
