@@ -1,2 +1,1 @@
-# arch_Technologies
-arch_Technologies
+ App Development Internship This repository contains the projects, tasks, and practical work completed during my App Development Internship. It includes mobile application development using Flutter and Dart, focusing on responsive UI design, application functionality, navigation, API integration, and database connectivity.
